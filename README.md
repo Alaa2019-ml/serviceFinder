@@ -1,5 +1,6 @@
 ## Highly Rated Service Providers Platform
- <img width="1624" height="737" alt="2" src="https://github.com/user-attachments/assets/03d935f0-9850-4f12-aff9-061cbf397ceb" />
+<img width="1624" height="737" alt="2" src="https://github.com/user-attachments/assets/add6bc79-e173-41c7-a7d6-396c434869e1" />
+
 
 
 📌 Project Overview
@@ -67,6 +68,7 @@ Open the local URL shown in the terminal (usually): http://localhost:5173
 
 
 ## 📂 Directory Layout and Tree
+<img width="653" height="640" alt="directoryTree" src="https://github.com/user-attachments/assets/49ce0ecf-9df7-49d5-a879-fe050d6d9732" />
 
-<img width="653" height="640" alt="directoryTree" src="https://github.com/user-attachments/assets/f00b88a2-d343-4018-b14d-c19c221539d7" />
+
 
